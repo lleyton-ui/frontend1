@@ -1,6 +1,6 @@
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
-
+import { Image, Text, View } from 'react-native';
 // Imports
 import AddEventScreen from './src/screens/AddEventScreen';
 import DeleteEventScreen from './src/screens/DeleteEventScreen';
